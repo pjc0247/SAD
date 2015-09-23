@@ -1,4 +1,4 @@
-SAM(Super Annoying & Dirty) AOP with C++
+SAD(Super Annoying & Dirty) AOP with C++
 ----
 
 Overview

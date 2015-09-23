@@ -36,6 +36,7 @@ class FooAspect : IFunctionLifeContext<int, int> {
   }	
 }
 ```
+The below example shows how to inject aspect with arguments.
 ```cpp
 void foo(int a,int b) { $$(foo, a,b)
 }
